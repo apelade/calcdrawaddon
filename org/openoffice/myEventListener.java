@@ -25,6 +25,7 @@ class myEventListener implements XSelectionChangeListener{
         }catch(Exception e){
             System.out.println("problem with selectionChanged() " +
                 e.getMessage());
+            e.printStackTrace();
         }
     }
 
