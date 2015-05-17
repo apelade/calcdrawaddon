@@ -18,10 +18,7 @@ import java.util.StringTokenizer;
 import java.util.jar.Attributes;
 import java.util.jar.Manifest;
 
-/**
- *
- * @author Connie
- */
+
 public class CentralRegistrationClass {
     
     public static XSingleComponentFactory __getComponentFactory( String sImplementationName ) {
